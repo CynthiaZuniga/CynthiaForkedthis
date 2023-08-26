@@ -19,6 +19,9 @@ header{
     padding: 50px;
     height: 500px;
 }
+section h1{
+    text-align: center;
+}
 main{
     height: 250px;
 }
