@@ -9,7 +9,7 @@ nav{
     display: flex;
     justify-content: space-around;
 }
-nav h3{
+nav a{
     margin-right: 100px;
 }
 header{
