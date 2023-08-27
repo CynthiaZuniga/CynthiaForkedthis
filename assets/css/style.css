@@ -46,5 +46,7 @@ footer a{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-
+}
+.nav{
+    text-align: center;
 }
