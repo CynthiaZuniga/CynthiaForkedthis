@@ -22,6 +22,12 @@ header{
 section h1{
     text-align: center;
 }
+
+section .cambiospipe{
+    color: white;
+    padding-bottom: 10px;
+}
+
 main{
     height: 250px;
 }
