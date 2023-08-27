@@ -41,3 +41,10 @@ footer a{
     display: flex;
     justify-content: center;
 }
+/*Portafolio*/
+.portafolio{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
