@@ -9,8 +9,8 @@ nav{
     display: flex;
     justify-content: space-around;
 }
-nav a {
-    justify-content: right;
+nav h3{
+    margin-right: 100px;
 }
 header{
     display: flex;
@@ -32,6 +32,7 @@ footer{
     flex-wrap: nowrap;
     justify-content: space-around;
     align-content: center;
+    margin: 0px;
 }
 footer h4{
     text-align: center;
